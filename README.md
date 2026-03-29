@@ -1,1 +1,2 @@
-# cloud-security-labs
+📋 WHAT'S INSIDE LAB 1
+SectionCoverageAzure Part ACreate user → Create group → Assign Reader RBAC role → Verify accessAWS Part BCreate user → Create group → Attach ReadOnlyAccess policy → Create EC2-to-S3 role → VerifyComparison tableAzure vs AWS side-by-side on every conceptCleanup stepsFull teardown instructions — no orphaned resourcesKey takeaways5 bullet summary of what you provedRepo structureShows the full 5-lab series path
